@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+  <!-- General -->
+  <category label="设置">
+    <setting id="username" type="text" label="用户名" values="" default="" />
+    <setting id="password" type="text" label="密码" values="" default="" />
+	<setting id="select" type="enum" label="清晰度" values="普清|高清|原码|每次提示" default="1"/>
+  </category>
+</settings>
